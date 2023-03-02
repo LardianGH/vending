@@ -1,0 +1,19 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    color: blueviolet;
+    width: fit-content; /* adjust width as needed */
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 60px;
+}
+
+#vend-body {
+    background-color: red;
+    width: 500px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
